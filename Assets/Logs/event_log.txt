@@ -332,3 +332,77 @@
 [2025-10-08 14:35:45] Password visibility toggled (pass1) -> visible: False | User: N/A
 [2025-10-08 14:35:46] Password visibility toggled (pass1) -> visible: True | User: N/A
 [2025-10-08 14:35:46] Password visibility toggled (pass1) -> visible: False | User: N/A
+[2025-10-08 15:15:35] Sistema de seguimiento iniciado.
+[2025-10-08 15:15:35] Escena cargada: 0.LoginScreen
+[2025-10-08 15:15:35] Sesión iniciada por: Invitado
+[2025-10-08 15:15:39] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:15:39] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:15:39] Escena cargada: 1.RegisterScreen
+[2025-10-08 15:15:41] Aplicación cerrada manualmente (sin sesión activa).
+[2025-10-08 15:15:41] Click en botón 'ExitButton' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:15:41] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,1 min.
+[2025-10-08 15:15:41] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,1 min.
+[2025-10-08 15:31:10] Aplicación cerrada manualmente (sin sesión activa).
+[2025-10-08 15:32:17] Sistema de seguimiento iniciado.
+[2025-10-08 15:32:17] Escena cargada: 0.LoginScreen
+[2025-10-08 15:32:17] Sesión iniciada por: Invitado
+[2025-10-08 15:32:25] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:32:25] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:32:25] Escena cargada: 1.RegisterScreen
+[2025-10-08 15:32:55] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:55] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:58] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:58] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:59] Click en botón 'Adulto_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:33:02] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:33:02] Datos de usuario guardados: gui
+[2025-10-08 15:33:02] Usuario registrado: gui (gui21@gmail.com)
+[2025-10-08 15:33:02] Register: nuevo usuario gui (AdultoMayor, 34 años)
+[2025-10-08 15:33:03] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:05] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:07] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:07] Escena cargada: 5.Configuracion
+[2025-10-08 15:33:09] Click en botón 'Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:09] Click en botón 'Button (1)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:10] Click en botón 'Button (2)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:11] Click en botón 'Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:12] Click en botón 'Button (3)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:12] Click en botón 'Button (1)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:13] Click en botón 'Button (2)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:15] Click en botón 'SignOutButton' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:18] Click en botón 'House_Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:18] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:23] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:23] Escena cargada: 4.Progresos
+[2025-10-08 15:33:25] Click en botón 'House_Button' (escena: 4.Progresos, usuario: gui)
+[2025-10-08 15:33:25] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:25] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:26] Escena cargada: 3.RutasAprendizaje
+[2025-10-08 15:33:27] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-08 15:33:27] Escena cargada: Modulo_Phishing
+[2025-10-08 15:33:28] Click en botón 'TeoricButton' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-08 15:33:28] InfoWindowManager: open_theory_window | User: gui
+[2025-10-08 15:33:29] Click en botón 'ExitInfo_Button' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-08 15:33:29] InfoWindowManager: close_theory_window | User: gui
+[2025-10-08 15:33:30] Click en botón 'House_Button' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-08 15:33:30] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:31] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:31] Escena cargada: 3.RutasAprendizaje
+[2025-10-08 15:33:32] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-08 15:33:32] Escena cargada: Modulo_CSeguras
+[2025-10-08 15:33:40] Click en botón 'House_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:33:40] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:41] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:41] Escena cargada: 3.RutasAprendizaje
+[2025-10-08 15:33:43] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-08 15:33:43] Escena cargada: Modulo_CSeguras
+[2025-10-08 15:33:44] Click en botón 'TeoricButton' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:33:44] InfoWindowManager: open_theory_window | User: gui
+[2025-10-08 15:33:57] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:33:57] InfoWindowManager: close_theory_window | User: gui
+[2025-10-08 15:34:26] Click en botón 'GameButton' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:34:26] InfoWindowManager: open_game_window | User: gui
+[2025-10-08 15:34:27] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:34:27] InfoWindowManager: close_game_window | User: gui
+[2025-10-08 15:35:01] Aplicación cerrada. Usuario: gui. Duración de sesión: 2,7 min.
+[2025-10-08 15:35:01] Aplicación cerrada. Usuario: gui. Duración de sesión: 2,7 min.
