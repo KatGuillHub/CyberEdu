@@ -1,0 +1,40 @@
+{
+    "UserId": "63aba91a-0c93-4bc8-9d52-dc47df5568bf",
+    "UserName": "gui",
+    "Email": "gui21@gmail.com",
+    "PasswordHash": "f2bdda2192b2a979569c4ccbd78d665175e0225c0435031d1341f9cf8021606e",
+    "UserType": "AdultoMayor",
+    "Age": 34,
+    "ProgressList": [
+        {
+            "ModuleID": "Modulo_Phishing",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_CSeguras",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_Privacidad",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_RedesSociales",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_IAResponsable",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_BienestarDigital",
+            "Progress": 0.0
+        }
+    ],
+    "Settings": {
+        "Language": "es",
+        "LargeFonts": false,
+        "Narration": false,
+        "OfflineMode": false
+    }
+}
