@@ -39,6 +39,12 @@ EditorBuildSettings:
     path: Assets/Scenes/3.RutasAprendizaje/Modulo_IAResponsable.unity
     guid: c2e670f881fc5b74f82c4fb083050c88
   - enabled: 1
-    path: Assets/Scenes/3.RutasAprendizaje/Modulo_BienestarDigital.unity
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo Bienestar Digital/Modulo_BienestarDigital.unity
     guid: b5829ac78e9c95a47ace851eb760d74c
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo Bienestar Digital/Modulo_BienestarDigital_Descripcion.unity
+    guid: 821cb2a3a5269c243a563c242a58ee27
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo Bienestar Digital/Modulo_BienestarDigital_Juego.unity
+    guid: 83ed861598e2fe449b55854d7d809354
   m_configObjects: {}

@@ -406,3 +406,8 @@
 [2025-10-08 15:34:27] InfoWindowManager: close_game_window | User: gui
 [2025-10-08 15:35:01] Aplicación cerrada. Usuario: gui. Duración de sesión: 2,7 min.
 [2025-10-08 15:35:01] Aplicación cerrada. Usuario: gui. Duración de sesión: 2,7 min.
+[2025-10-08 16:05:03] Sistema de seguimiento iniciado.
+[2025-10-08 16:05:03] Escena cargada: 0.LoginScreen
+[2025-10-08 16:05:03] Sesión iniciada por: Invitado
+[2025-10-08 16:05:05] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
+[2025-10-08 16:05:05] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
