@@ -1,0 +1,413 @@
+[2025-10-07 13:43:49] Sistema de seguimiento iniciado.
+[2025-10-07 13:43:49] Escena cargada: 0.LoginScreen
+[2025-10-07 13:43:49] Sesión iniciada por: Invitado
+[2025-10-07 13:44:52] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 13:44:52] Login fallido: no encontrado DanielZ
+[2025-10-07 13:44:52] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 13:44:58] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 13:44:58] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 13:44:58] Escena cargada: 1.RegisterScreen
+[2025-10-07 13:46:14] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-07 13:46:50] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-07 13:46:50] Datos de usuario guardados: DanielZ
+[2025-10-07 13:46:50] Usuario registrado: DanielZ (dannyedzamo@gmail.com)
+[2025-10-07 13:46:50] Register: nuevo usuario DanielZ (Joven, 27 años)
+[2025-10-07 13:46:50] Escena cargada: 2.MenuPrincipal
+[2025-10-07 13:47:18] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 13:47:18] Escena cargada: 4.Progresos
+[2025-10-07 13:47:31] Click en botón 'House_Button' (escena: 4.Progresos, usuario: DanielZ)
+[2025-10-07 13:47:31] Escena cargada: 2.MenuPrincipal
+[2025-10-07 13:47:50] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 13:47:50] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 13:48:26] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 13:48:26] Escena cargada: Modulo_Phishing
+[2025-10-07 13:48:57] Click en botón 'VolverModulos_Button' (escena: Modulo_Phishing, usuario: DanielZ)
+[2025-10-07 13:48:57] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 13:49:03] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 13:49:03] Escena cargada: Modulo_IAResponsable
+[2025-10-07 13:49:16] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable, usuario: DanielZ)
+[2025-10-07 13:49:16] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 13:49:21] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 5.5 min.
+[2025-10-07 13:49:21] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 5.5 min.
+[2025-10-07 18:28:58] Sistema de seguimiento iniciado.
+[2025-10-07 18:28:58] Escena cargada: 0.LoginScreen
+[2025-10-07 18:28:58] Sesión iniciada por: Invitado
+[2025-10-07 18:29:04] Aplicación cerrada manualmente por el usuario.
+[2025-10-07 18:29:04] Click en botón 'ExitButton' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:04] Click en botón 'ExitButton' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:04] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.1 min.
+[2025-10-07 18:29:04] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.1 min.
+[2025-10-07 18:29:12] Sistema de seguimiento iniciado.
+[2025-10-07 18:29:12] Escena cargada: 0.LoginScreen
+[2025-10-07 18:29:12] Sesión iniciada por: Invitado
+[2025-10-07 18:29:27] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:27] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:30] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:30] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:31] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:31] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:32] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:29:32] Login exitoso: DanielZ
+[2025-10-07 18:29:32] Login: DanielZ
+[2025-10-07 18:29:32] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 18:29:32] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:29:44] Aplicación cerrada manualmente por el usuario.
+[2025-10-07 18:29:44] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 18:29:44] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.5 min.
+[2025-10-07 18:29:44] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.5 min.
+[2025-10-07 18:29:50] Sistema de seguimiento iniciado.
+[2025-10-07 18:29:50] Escena cargada: 0.LoginScreen
+[2025-10-07 18:29:50] Sesión iniciada por: Invitado
+[2025-10-07 18:30:10] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:30:10] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:30:13] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:30:13] Login exitoso: DanielZ
+[2025-10-07 18:30:13] Login: DanielZ
+[2025-10-07 18:30:13] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 18:30:13] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:30:17] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.5 min.
+[2025-10-07 18:30:17] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.5 min.
+[2025-10-07 18:30:20] Sistema de seguimiento iniciado.
+[2025-10-07 18:30:20] Escena cargada: 0.LoginScreen
+[2025-10-07 18:30:20] Sesión iniciada por: Invitado
+[2025-10-07 18:30:23] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
+[2025-10-07 18:30:23] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
+[2025-10-07 18:31:10] Sistema de seguimiento iniciado.
+[2025-10-07 18:31:10] Escena cargada: 0.LoginScreen
+[2025-10-07 18:31:10] Sesión iniciada por: Invitado
+[2025-10-07 18:31:30] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:31:30] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:31:31] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:31:31] Login exitoso: DanielZ
+[2025-10-07 18:31:31] Login: DanielZ
+[2025-10-07 18:31:31] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 18:31:31] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:32:00] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 18:32:00] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 18:32:05] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 18:32:05] Escena cargada: Modulo_BienestarDigital
+[2025-10-07 18:32:12] Aplicación cerrada manualmente por el usuario.
+[2025-10-07 18:32:12] Click en botón 'ExitButton' (escena: Modulo_BienestarDigital, usuario: DanielZ)
+[2025-10-07 18:32:12] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 1.0 min.
+[2025-10-07 18:32:12] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 1.0 min.
+[2025-10-07 18:32:18] Sesión recordada cargada: DanielZ
+[2025-10-07 18:32:18] Sistema de seguimiento iniciado.
+[2025-10-07 18:32:18] Escena cargada: 0.LoginScreen
+[2025-10-07 18:32:18] Auto-redirect: remembered session detected.
+[2025-10-07 18:32:18] Sesión iniciada por: DanielZ
+[2025-10-07 18:32:19] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:32:23] Logout: DanielZ
+[2025-10-07 18:32:23] Click en botón 'SignOutButton' (escena: 2.MenuPrincipal, usuario: Invitado)
+[2025-10-07 18:32:23] Escena cargada: 0.LoginScreen
+[2025-10-07 18:32:28] Aplicación cerrada manualmente por el usuario.
+[2025-10-07 18:32:28] Click en botón 'ExitButton' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:32:28] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.2 min.
+[2025-10-07 18:32:28] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.2 min.
+[2025-10-07 18:32:31] Sistema de seguimiento iniciado.
+[2025-10-07 18:32:31] Escena cargada: 0.LoginScreen
+[2025-10-07 18:32:31] Sesión iniciada por: Invitado
+[2025-10-07 18:32:33] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
+[2025-10-07 18:32:33] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
+[2025-10-07 18:38:29] Sistema de seguimiento iniciado.
+[2025-10-07 18:38:29] Escena cargada: 0.LoginScreen
+[2025-10-07 18:38:29] Sesión iniciada por: Invitado
+[2025-10-07 18:38:43] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:38:43] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:38:47] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:38:47] Login exitoso: DanielZ
+[2025-10-07 18:38:47] Login: DanielZ
+[2025-10-07 18:38:47] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 18:38:47] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:39:10] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 18:39:10] Escena cargada: 4.Progresos
+[2025-10-07 18:39:17] Click en botón 'House_Button' (escena: 4.Progresos, usuario: DanielZ)
+[2025-10-07 18:39:17] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:39:21] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 18:39:22] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 18:39:25] Click en botón 'Iniciar_PLinea_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 18:39:25] Escena cargada: Modulo_Privacidad
+[2025-10-07 18:39:31] Click en botón 'VolverModulos_Button' (escena: Modulo_Privacidad, usuario: DanielZ)
+[2025-10-07 18:39:31] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 18:39:34] Usuario 'DanielZ' cerró la aplicación manualmente desde la interfaz.
+[2025-10-07 18:39:34] Click en botón 'ExitButton' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 18:39:34] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 1.1 min.
+[2025-10-07 18:39:34] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 1.1 min.
+[2025-10-07 18:39:43] Sesión recordada cargada: DanielZ
+[2025-10-07 18:39:43] Sistema de seguimiento iniciado.
+[2025-10-07 18:39:43] Escena cargada: 0.LoginScreen
+[2025-10-07 18:39:43] Auto-redirect: remembered session detected.
+[2025-10-07 18:39:43] Sesión iniciada por: DanielZ
+[2025-10-07 18:39:43] Escena cargada: 2.MenuPrincipal
+[2025-10-07 18:40:02] Usuario 'DanielZ' cerró sesión manualmente desde MenuPrincipal.
+[2025-10-07 18:40:02] Logout: DanielZ
+[2025-10-07 18:40:02] Redirigiendo a la escena de Login (0.LoginScreen).
+[2025-10-07 18:40:02] Click en botón 'SignOutButton' (escena: 2.MenuPrincipal, usuario: Invitado)
+[2025-10-07 18:40:03] Escena cargada: 0.LoginScreen
+[2025-10-07 18:40:07] Aplicación cerrada manualmente (sin sesión activa).
+[2025-10-07 18:40:07] Click en botón 'ExitButton' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 18:40:07] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.4 min.
+[2025-10-07 18:40:07] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.4 min.
+[2025-10-07 18:40:10] Sistema de seguimiento iniciado.
+[2025-10-07 18:40:10] Escena cargada: 0.LoginScreen
+[2025-10-07 18:40:10] Sesión iniciada por: Invitado
+[2025-10-07 18:40:25] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.2 min.
+[2025-10-07 18:40:25] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.2 min.
+[2025-10-07 19:52:45] Sistema de seguimiento iniciado.
+[2025-10-07 19:52:45] Escena cargada: 0.LoginScreen
+[2025-10-07 19:52:45] Sesión iniciada por: Invitado
+[2025-10-07 19:52:54] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 19:52:54] Login exitoso: DanielZ
+[2025-10-07 19:52:54] Login: DanielZ
+[2025-10-07 19:52:54] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 19:52:54] Escena cargada: 2.MenuPrincipal
+[2025-10-07 19:53:01] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 19:53:01] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 19:53:08] Click en botón 'Iniciar_PLinea_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 19:53:08] Escena cargada: Modulo_Privacidad
+[2025-10-07 19:53:10] Click en botón 'VolverModulos_Button' (escena: Modulo_Privacidad, usuario: DanielZ)
+[2025-10-07 19:53:10] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 19:53:14] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.5 min.
+[2025-10-07 19:53:14] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.5 min.
+[2025-10-07 19:54:05] Sistema de seguimiento iniciado.
+[2025-10-07 19:54:05] Escena cargada: 0.LoginScreen
+[2025-10-07 19:54:05] Sesión iniciada por: Invitado
+[2025-10-07 19:54:12] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 19:54:12] Login fallido: contraseña incorrecta para DanielZ
+[2025-10-07 19:54:12] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 19:54:21] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 19:54:21] Login exitoso: DanielZ
+[2025-10-07 19:54:21] Login: DanielZ
+[2025-10-07 19:54:21] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 19:54:21] Escena cargada: 2.MenuPrincipal
+[2025-10-07 19:54:38] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 19:54:38] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 19:54:42] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 19:54:42] Escena cargada: Modulo_CSeguras
+[2025-10-07 19:54:49] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.7 min.
+[2025-10-07 19:54:49] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 0.7 min.
+[2025-10-07 22:49:52] InfoWindowManager: open_theory_window | User: N/A
+[2025-10-07 22:49:55] InfoWindowManager: close_theory_window | User: N/A
+[2025-10-07 22:49:58] InfoWindowManager: open_game_window | User: N/A
+[2025-10-07 22:50:47] InfoWindowManager: open_theory_window | User: N/A
+[2025-10-07 22:50:52] InfoWindowManager: close_theory_window | User: N/A
+[2025-10-07 22:50:53] InfoWindowManager: open_game_window | User: N/A
+[2025-10-07 22:50:55] InfoWindowManager: close_game_window | User: N/A
+[2025-10-07 22:50:55] InfoWindowManager: open_theory_window | User: N/A
+[2025-10-07 22:50:58] InfoWindowManager: close_theory_window | User: N/A
+[2025-10-07 22:50:59] InfoWindowManager: open_theory_window | User: N/A
+[2025-10-07 22:50:59] InfoWindowManager: close_theory_window | User: N/A
+[2025-10-07 22:51:00] InfoWindowManager: open_game_window | User: N/A
+[2025-10-07 22:51:01] InfoWindowManager: close_game_window | User: N/A
+[2025-10-07 22:51:02] InfoWindowManager: open_theory_window | User: N/A
+[2025-10-07 22:51:04] InfoWindowManager: close_theory_window | User: N/A
+[2025-10-07 22:54:18] Sistema de seguimiento iniciado.
+[2025-10-07 22:54:18] Escena cargada: 0.LoginScreen
+[2025-10-07 22:54:18] Sesión iniciada por: Invitado
+[2025-10-07 22:55:02] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 22:55:02] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 22:55:28] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-07 22:55:28] Login exitoso: DanielZ
+[2025-10-07 22:55:28] Login: DanielZ
+[2025-10-07 22:55:28] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: DanielZ)
+[2025-10-07 22:55:28] Escena cargada: 2.MenuPrincipal
+[2025-10-07 22:56:02] Usuario 'DanielZ' cerró la aplicación manualmente desde la interfaz.
+[2025-10-07 22:56:02] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 22:56:03] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 1.7 min.
+[2025-10-07 22:56:03] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 1.7 min.
+[2025-10-07 22:56:13] Sesión recordada cargada: DanielZ
+[2025-10-07 22:56:13] Sistema de seguimiento iniciado.
+[2025-10-07 22:56:13] Escena cargada: 0.LoginScreen
+[2025-10-07 22:56:13] Auto-redirect: remembered session detected.
+[2025-10-07 22:56:13] Sesión iniciada por: DanielZ
+[2025-10-07 22:56:14] Escena cargada: 2.MenuPrincipal
+[2025-10-07 22:56:35] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 22:56:35] Escena cargada: 4.Progresos
+[2025-10-07 22:56:39] Click en botón 'House_Button' (escena: 4.Progresos, usuario: DanielZ)
+[2025-10-07 22:56:39] Escena cargada: 2.MenuPrincipal
+[2025-10-07 22:56:47] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 22:56:47] Escena cargada: 5.Configuracion
+[2025-10-07 22:56:59] Click en botón 'House_Button' (escena: 5.Configuracion, usuario: DanielZ)
+[2025-10-07 22:56:59] Escena cargada: 2.MenuPrincipal
+[2025-10-07 22:57:04] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: DanielZ)
+[2025-10-07 22:57:04] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 22:57:23] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 22:57:23] Escena cargada: Modulo_CSeguras
+[2025-10-07 22:57:44] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:57:44] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 22:57:46] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 22:57:46] Escena cargada: Modulo_Phishing
+[2025-10-07 22:57:47] Click en botón 'VolverModulos_Button' (escena: Modulo_Phishing, usuario: DanielZ)
+[2025-10-07 22:57:47] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 22:57:49] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 22:57:49] Escena cargada: Modulo_CSeguras
+[2025-10-07 22:57:59] Click en botón 'TeoricButton' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:57:59] InfoWindowManager: open_theory_window | User: DanielZ
+[2025-10-07 22:58:21] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:58:21] InfoWindowManager: close_theory_window | User: DanielZ
+[2025-10-07 22:58:31] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:58:31] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 22:58:38] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 22:58:38] Escena cargada: Modulo_CSeguras
+[2025-10-07 22:58:43] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:58:43] Escena cargada: 3.RutasAprendizaje
+[2025-10-07 22:58:55] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: DanielZ)
+[2025-10-07 22:58:55] Escena cargada: Modulo_CSeguras
+[2025-10-07 22:58:56] Click en botón 'TeoricButton' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:58:56] InfoWindowManager: open_theory_window | User: DanielZ
+[2025-10-07 22:59:00] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:00] InfoWindowManager: close_theory_window | User: DanielZ
+[2025-10-07 22:59:09] Click en botón 'TeoricButton' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:09] InfoWindowManager: open_theory_window | User: DanielZ
+[2025-10-07 22:59:10] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:10] InfoWindowManager: close_theory_window | User: DanielZ
+[2025-10-07 22:59:10] Click en botón 'GameButton' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:10] InfoWindowManager: open_game_window | User: DanielZ
+[2025-10-07 22:59:21] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:21] InfoWindowManager: close_game_window | User: DanielZ
+[2025-10-07 22:59:22] Click en botón 'GameButton' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:22] InfoWindowManager: open_game_window | User: DanielZ
+[2025-10-07 22:59:34] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:34] InfoWindowManager: close_game_window | User: DanielZ
+[2025-10-07 22:59:39] Usuario 'DanielZ' cerró la aplicación manualmente desde la interfaz.
+[2025-10-07 22:59:39] Click en botón 'ExitButton' (escena: Modulo_CSeguras, usuario: DanielZ)
+[2025-10-07 22:59:39] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 3.4 min.
+[2025-10-07 22:59:39] Aplicación cerrada. Usuario: DanielZ. Duración de sesión: 3.4 min.
+[2025-10-08 12:55:13] Sesión recordada cargada: DanielZ
+[2025-10-08 12:55:13] Sistema de seguimiento iniciado.
+[2025-10-08 12:55:13] Escena cargada: 0.LoginScreen
+[2025-10-08 12:55:13] Auto-redirect: remembered session detected.
+[2025-10-08 12:55:13] Sesión iniciada por: DanielZ
+[2025-10-08 12:55:14] Escena cargada: 2.MenuPrincipal
+[2025-10-08 12:55:23] Usuario 'DanielZ' cerró sesión manualmente desde MenuPrincipal.
+[2025-10-08 12:55:23] Logout: DanielZ
+[2025-10-08 12:55:23] Redirigiendo a la escena de Login (0.LoginScreen).
+[2025-10-08 12:55:23] Click en botón 'SignOutButton' (escena: 2.MenuPrincipal, usuario: Invitado)
+[2025-10-08 12:55:23] Escena cargada: 0.LoginScreen
+[2025-10-08 12:55:34] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.3 min.
+[2025-10-08 12:55:34] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.3 min.
+[2025-10-08 12:58:28] Sistema de seguimiento iniciado.
+[2025-10-08 12:58:28] Escena cargada: 0.LoginScreen
+[2025-10-08 12:58:28] Sesión iniciada por: Invitado
+[2025-10-08 12:58:34] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.1 min.
+[2025-10-08 12:58:34] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.1 min.
+[2025-10-08 14:17:12] Sistema de seguimiento iniciado.
+[2025-10-08 14:17:13] Escena cargada: 0.LoginScreen
+[2025-10-08 14:17:13] Sesión iniciada por: Invitado
+[2025-10-08 14:17:18] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 14:17:18] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 14:17:18] Escena cargada: 1.RegisterScreen
+[2025-10-08 14:17:24] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.2 min.
+[2025-10-08 14:17:31] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.3 min.
+[2025-10-08 14:20:49] Sistema de seguimiento iniciado.
+[2025-10-08 14:20:49] Escena cargada: 0.LoginScreen
+[2025-10-08 14:20:49] Sesión iniciada por: Invitado
+[2025-10-08 14:20:54] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 14:20:54] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 14:20:54] Escena cargada: 1.RegisterScreen
+[2025-10-08 14:21:22] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:23] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:24] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:28] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:30] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:31] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:32] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:32] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:51] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:53] Click en botón 'Adulto_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:54] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:55] Click en botón 'Adulto_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:56] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:57] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:59] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:21:59] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:22:00] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:22:01] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:22:03] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:22:04] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 14:22:09] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 1.3 min.
+[2025-10-08 14:22:09] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 1.3 min.
+[2025-10-08 14:35:41] Password visibility toggled (pass1) -> visible: True | User: N/A
+[2025-10-08 14:35:44] Password visibility toggled (pass1) -> visible: False | User: N/A
+[2025-10-08 14:35:44] Password visibility toggled (pass1) -> visible: True | User: N/A
+[2025-10-08 14:35:45] Password visibility toggled (pass1) -> visible: False | User: N/A
+[2025-10-08 14:35:46] Password visibility toggled (pass1) -> visible: True | User: N/A
+[2025-10-08 14:35:46] Password visibility toggled (pass1) -> visible: False | User: N/A
+[2025-10-08 15:15:35] Sistema de seguimiento iniciado.
+[2025-10-08 15:15:35] Escena cargada: 0.LoginScreen
+[2025-10-08 15:15:35] Sesión iniciada por: Invitado
+[2025-10-08 15:15:39] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:15:39] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:15:39] Escena cargada: 1.RegisterScreen
+[2025-10-08 15:15:41] Aplicación cerrada manualmente (sin sesión activa).
+[2025-10-08 15:15:41] Click en botón 'ExitButton' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:15:41] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,1 min.
+[2025-10-08 15:15:41] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,1 min.
+[2025-10-08 15:31:10] Aplicación cerrada manualmente (sin sesión activa).
+[2025-10-08 15:32:17] Sistema de seguimiento iniciado.
+[2025-10-08 15:32:17] Escena cargada: 0.LoginScreen
+[2025-10-08 15:32:17] Sesión iniciada por: Invitado
+[2025-10-08 15:32:25] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:32:25] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-08 15:32:25] Escena cargada: 1.RegisterScreen
+[2025-10-08 15:32:55] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:55] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:58] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:58] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:32:59] Click en botón 'Adulto_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:33:02] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-08 15:33:02] Datos de usuario guardados: gui
+[2025-10-08 15:33:02] Usuario registrado: gui (gui21@gmail.com)
+[2025-10-08 15:33:02] Register: nuevo usuario gui (AdultoMayor, 34 años)
+[2025-10-08 15:33:03] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:05] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:07] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:07] Escena cargada: 5.Configuracion
+[2025-10-08 15:33:09] Click en botón 'Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:09] Click en botón 'Button (1)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:10] Click en botón 'Button (2)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:11] Click en botón 'Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:12] Click en botón 'Button (3)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:12] Click en botón 'Button (1)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:13] Click en botón 'Button (2)' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:15] Click en botón 'SignOutButton' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:18] Click en botón 'House_Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-08 15:33:18] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:23] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:23] Escena cargada: 4.Progresos
+[2025-10-08 15:33:25] Click en botón 'House_Button' (escena: 4.Progresos, usuario: gui)
+[2025-10-08 15:33:25] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:25] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:26] Escena cargada: 3.RutasAprendizaje
+[2025-10-08 15:33:27] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-08 15:33:27] Escena cargada: Modulo_Phishing
+[2025-10-08 15:33:28] Click en botón 'TeoricButton' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-08 15:33:28] InfoWindowManager: open_theory_window | User: gui
+[2025-10-08 15:33:29] Click en botón 'ExitInfo_Button' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-08 15:33:29] InfoWindowManager: close_theory_window | User: gui
+[2025-10-08 15:33:30] Click en botón 'House_Button' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-08 15:33:30] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:31] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:31] Escena cargada: 3.RutasAprendizaje
+[2025-10-08 15:33:32] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-08 15:33:32] Escena cargada: Modulo_CSeguras
+[2025-10-08 15:33:40] Click en botón 'House_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:33:40] Escena cargada: 2.MenuPrincipal
+[2025-10-08 15:33:41] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-08 15:33:41] Escena cargada: 3.RutasAprendizaje
+[2025-10-08 15:33:43] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-08 15:33:43] Escena cargada: Modulo_CSeguras
+[2025-10-08 15:33:44] Click en botón 'TeoricButton' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:33:44] InfoWindowManager: open_theory_window | User: gui
+[2025-10-08 15:33:57] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:33:57] InfoWindowManager: close_theory_window | User: gui
+[2025-10-08 15:34:26] Click en botón 'GameButton' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:34:26] InfoWindowManager: open_game_window | User: gui
+[2025-10-08 15:34:27] Click en botón 'ExitInfo_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-08 15:34:27] InfoWindowManager: close_game_window | User: gui
+[2025-10-08 15:35:01] Aplicación cerrada. Usuario: gui. Duración de sesión: 2,7 min.
+[2025-10-08 15:35:01] Aplicación cerrada. Usuario: gui. Duración de sesión: 2,7 min.
+[2025-10-08 16:05:03] Sistema de seguimiento iniciado.
+[2025-10-08 16:05:03] Escena cargada: 0.LoginScreen
+[2025-10-08 16:05:03] Sesión iniciada por: Invitado
+[2025-10-08 16:05:05] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
+[2025-10-08 16:05:05] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
