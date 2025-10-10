@@ -1504,6 +1504,34 @@ MonoBehaviour:
       dentro de sus plataformas oficiales, el desconfiar sin motivo o enviar informaci\xF3n
       por otros canales puede ser un error. Siempre verifica que est\xE9s en la app
       oficial del banco antes de aceptar."
+  - textoPregunta: "Te lleg\xF3 una notificaci\xF3n urgente sobre la actualizaci\xF3n
+      de datos y est\xE1s por ingresar a tu banco. \xBFQu\xE9 deber\xEDas hacer para
+      acceder de forma segura?"
+    imagen: {fileID: 21300000, guid: 0e2b96c458aae59458844ced51afa063, type: 3}
+    opciones:
+    - "Hacer clic en el enlace que lleg\xF3 por mensaje de texto."
+    - "Escribir directamente la direcci\xF3n del banco en el navegador."
+    - "Buscar en Google \u201Cinicio de sesi\xF3n banco donde tienes tu cuenta\u201D."
+    - "Aceptar la invitaci\xF3n de acceso r\xE1pido del correo"
+    respuestaCorrecta: 1
+    retroCorrecta: "\xA1Bien hecho! Escribir la direcci\xF3n manualmente evita caer
+      en p\xE1ginas falsas."
+    retroIncorrecta: 'Recuerda: nunca uses enlaces de mensajes o correos, pueden
+      llevarte a sitios falsos.'
+  - textoPregunta: "Antes de abrir un archivo o enlace que parece ser del banco,
+      \xBFqu\xE9 deber\xEDas hacer primero?"
+    imagen: {fileID: 21300000, guid: 6ee3b93d59d7bc74b93de7fcd4b0d71a, type: 3}
+    opciones:
+    - "Hacer clic en \u201CAbrir\u201D para verificar si el archivo es real."
+    - "Revisar si el remitente y la direcci\xF3n web son oficiales."
+    - Compartir el archivo con un amigo para que lo revise.
+    - Abrirlo solo si el mensaje tiene el logo del banco.
+    respuestaCorrecta: 1
+    retroCorrecta: "\xA1Muy bien! Verifica siempre el remitente y la direcci\xF3n
+      web antes de abrir archivos o enlaces. As\xED evitas caer en fraudes o instalar
+      software malicioso."
+    retroIncorrecta: "Recuerda: nunca abras archivos o enlaces sin confirmar su autenticidad.
+      Los delincuentes pueden usar logos o mensajes falsos para enga\xF1ar."
 --- !u!1 &481556273
 GameObject:
   m_ObjectHideFlags: 0
@@ -1877,7 +1905,7 @@ MonoBehaviour:
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
+  m_overflowMode: 3
   m_linkedTextComponent: {fileID: 0}
   parentLinkedComponent: {fileID: 0}
   m_enableKerning: 1
@@ -2942,6 +2970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 983666993}
   - component: {fileID: 983666994}
+  - component: {fileID: 983666995}
   m_Layer: 5
   m_Name: Opciones
   m_TagString: Untagged
@@ -2996,6 +3025,26 @@ MonoBehaviour:
   m_Spacing: {x: 25, y: 25}
   m_Constraint: 1
   m_ConstraintCount: 4
+--- !u!114 &983666995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983666992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: 350
+  m_MinHeight: 80
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
 --- !u!1 &997502738
 GameObject:
   m_ObjectHideFlags: 0
