@@ -1371,7 +1371,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &420309381
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1484,6 +1484,7 @@ MonoBehaviour:
   BotonContinuar: {fileID: 708051146}
   PanelResultados: {fileID: 1166839283}
   TextoResultados: {fileID: 893938416}
+  TextoProgreso: {fileID: 1362286530}
   BotonTerminar: {fileID: 354722405}
   preguntas:
   - textoPregunta: "Si te encuentras en una aplicaci\xF3n bancaria y te pide que
@@ -1500,10 +1501,10 @@ MonoBehaviour:
       datos biom\xE9tricos (huella o reconocimiento facial) para aumentar la seguridad
       y verificar tu identidad. Es importante hacerlo solo dentro de la app oficial
       del banco, nunca desde enlaces o correos externos."
-    retroIncorrecta: "No exactamente. Las apps bancarias pueden pedir datos biom\xE9tricos
-      dentro de sus plataformas oficiales, el desconfiar sin motivo o enviar informaci\xF3n
-      por otros canales puede ser un error. Siempre verifica que est\xE9s en la app
-      oficial del banco antes de aceptar."
+    retroIncorrecta: "No exactamente. Las apps bancarias pueden pedir datos biom\xE9tricos,
+      pero solo dentro de sus plataformas oficiales. Desconfiar sin motivo o enviar
+      informaci\xF3n por otros canales (como correo o mensajes) puede ser un error.
+      Siempre verifica que est\xE9s en la app oficial del banco antes de aceptar."
   - textoPregunta: "Te lleg\xF3 una notificaci\xF3n urgente sobre la actualizaci\xF3n
       de datos y est\xE1s por ingresar a tu banco. \xBFQu\xE9 deber\xEDas hacer para
       acceder de forma segura?"
@@ -1532,6 +1533,19 @@ MonoBehaviour:
       software malicioso."
     retroIncorrecta: "Recuerda: nunca abras archivos o enlaces sin confirmar su autenticidad.
       Los delincuentes pueden usar logos o mensajes falsos para enga\xF1ar."
+  - textoPregunta: "Recibes un mensaje con un enlace que dice \u201CActualiza tus
+      datos aqu\xED o tu cuenta ser\xE1 bloqueada\u201D. \xBFQu\xE9 deber\xEDas hacer?"
+    imagen: {fileID: 21300000, guid: 1eec8b295c9be7445bd484860786a895, type: 3}
+    opciones:
+    - Abrir el enlace de inmediato para evitar el bloqueo.
+    - Reenviar el mensaje a tus contactos para que lo abran y advertirles.
+    - Ignorar el mensaje y verificar directamente con el banco.
+    - "Responder al mensaje pidiendo m\xE1s informaci\xF3n."
+    respuestaCorrecta: 2
+    retroCorrecta: "\xA1Excelente! Nunca abras enlaces sospechosos. Verifica siempre
+      con el banco por sus canales oficiales antes de tomar cualquier acci\xF3n."
+    retroIncorrecta: 'Cuidado: los mensajes que generan urgencia suelen ser falsos.
+      No abras enlaces ni compartas datos personales.'
 --- !u!1 &481556273
 GameObject:
   m_ObjectHideFlags: 0
@@ -1641,8 +1655,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -426.9, y: -16.3}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchoredPosition: {x: -41.9, y: -16.9}
+  m_SizeDelta: {x: 76.3, y: 50.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &499713574
 MonoBehaviour:
@@ -1664,7 +1678,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 816a3632f3c25f94296a77199337cf00, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3ac669dcf1ba18e49b47aabb9c065c6b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1716,10 +1730,10 @@ RectTransform:
   - {fileID: 221932522}
   m_Father: {fileID: 983666993}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1187.5, y: -187.98166}
+  m_SizeDelta: {x: 430, y: 210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &559337503
 MonoBehaviour:
@@ -2841,10 +2855,10 @@ RectTransform:
   - {fileID: 561334955}
   m_Father: {fileID: 983666993}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 277.5, y: -187.98166}
+  m_SizeDelta: {x: 430, y: 210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &917807267
 MonoBehaviour:
@@ -2996,10 +3010,10 @@ RectTransform:
   - {fileID: 1515443633}
   m_Father: {fileID: 420309381}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 960, y: -751.91833}
+  m_SizeDelta: {x: 1920, y: 375.96332}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &983666994
 MonoBehaviour:
@@ -3217,6 +3231,7 @@ RectTransform:
   - {fileID: 653164550}
   - {fileID: 772369922}
   - {fileID: 420309381}
+  - {fileID: 1362286529}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4120,14 +4135,13 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 893938415}
-  - {fileID: 1362286529}
   - {fileID: 354722404}
   m_Father: {fileID: 420309381}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 960, y: -989.8762}
-  m_SizeDelta: {x: 1920, y: 180.2475}
+  m_AnchoredPosition: {x: 960, y: -875.78876}
+  m_SizeDelta: {x: 1920, y: 128.2225}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1166839285
 MonoBehaviour:
@@ -4276,10 +4290,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 420309381}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 960, y: -119.986664}
+  m_SizeDelta: {x: 1920, y: 239.97333}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1179805978
 MonoBehaviour:
@@ -4390,7 +4404,7 @@ GameObject:
   - component: {fileID: 1362286531}
   - component: {fileID: 1362286530}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Progreso_Preguntas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4403,16 +4417,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362286528}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1166839284}
+  m_Father: {fileID: 1007356315}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 604, y: 781}
+  m_AnchoredPosition: {x: 838, y: -496}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1362286530
@@ -4754,10 +4768,10 @@ RectTransform:
   - {fileID: 86238071}
   m_Father: {fileID: 983666993}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1642.5, y: -187.98166}
+  m_SizeDelta: {x: 430, y: 210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1515443634
 MonoBehaviour:
@@ -4967,10 +4981,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 420309381}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 960, y: -401.955}
+  m_SizeDelta: {x: 1920, y: 293.96332}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1581048755
 MonoBehaviour:
@@ -5401,7 +5415,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1743333161
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5419,10 +5433,10 @@ RectTransform:
   - {fileID: 708051145}
   m_Father: {fileID: 420309381}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 960, y: -875.78876}
+  m_SizeDelta: {x: 1920, y: 128.2225}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1743333162
 MonoBehaviour:
@@ -6282,10 +6296,10 @@ RectTransform:
   - {fileID: 997502739}
   m_Father: {fileID: 983666993}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 732.5, y: -187.98166}
+  m_SizeDelta: {x: 430, y: 210}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2144211867
 MonoBehaviour:
