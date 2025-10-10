@@ -20,6 +20,8 @@ public class QuizManager : MonoBehaviour
 
     public GameObject PanelResultados;
     public TextMeshProUGUI TextoResultados;
+    public TextMeshProUGUI TextoProgreso;
+
     public Button BotonTerminar;
 
     [System.Serializable]
@@ -51,6 +53,7 @@ public class QuizManager : MonoBehaviour
 
         BotonRepetir.onClick.AddListener(RepetirPregunta);
         BotonContinuar.onClick.AddListener(SiguientePregunta);
+        TextoProgreso.text = $"Pregunta {indiceActual + 1}/{preguntas.Count}";
         BotonTerminar.onClick.AddListener(TerminarPrueba);
     }
 
@@ -104,21 +107,27 @@ public class QuizManager : MonoBehaviour
     void SiguientePregunta()
     {
         indiceActual++;
+
         if (indiceActual < preguntas.Count)
         {
+            PanelRetroalimentacion.SetActive(false);
             MostrarPregunta();
         }
         else
         {
             MostrarResultados();
         }
+
+        TextoProgreso.text = $"Pregunta {indiceActual + 1}/{preguntas.Count}"; // 👈 fuerza actualización visual
     }
+
+
 
     void MostrarResultados()
     {
         PanelQuizActivo(false);
         PanelResultados.SetActive(true);
-        TextoResultados.text = $"Has completado la prueba.\nPuntaje: {puntaje}/{preguntas.Count}";
+        TextoProgreso.gameObject.SetActive(false); // 👈 Oculta el texto del progreso al finalizar
     }
 
     void TerminarPrueba()
