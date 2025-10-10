@@ -411,3 +411,19 @@
 [2025-10-08 16:05:03] Sesión iniciada por: Invitado
 [2025-10-08 16:05:05] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
 [2025-10-08 16:05:05] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
+[2025-10-10 17:42:00] Sistema de seguimiento iniciado.
+[2025-10-10 17:42:00] Escena cargada: 0.LoginScreen
+[2025-10-10 17:42:00] Sesión iniciada por: Invitado
+[2025-10-10 17:42:01] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-10 17:42:01] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-10 17:42:01] Escena cargada: 1.RegisterScreen
+[2025-10-10 17:42:12] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-10 17:42:17] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-10 17:42:18] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-10 17:42:22] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-10 17:42:22] Datos de usuario guardados: And
+[2025-10-10 17:42:22] Usuario registrado: And (kxd@gmail.com)
+[2025-10-10 17:42:22] Register: nuevo usuario And (Joven, 16 años)
+[2025-10-10 17:42:22] Escena cargada: 2.MenuPrincipal
+[2025-10-10 17:42:24] Aplicación cerrada. Usuario: And. Duración de sesión: 0,4 min.
+[2025-10-10 17:42:24] Aplicación cerrada. Usuario: And. Duración de sesión: 0,4 min.
