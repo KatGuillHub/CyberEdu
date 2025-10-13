@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/Scenes/3.RutasAprendizaje/Modulo Phishing/Modulo_Phishing_Juego.unity
     guid: 16b9e52bd6593d24489d3ab511a04366
   - enabled: 1
-    path: Assets/Scenes/3.RutasAprendizaje/Modulo_CSeguras.unity
+    path: "Assets/Scenes/3.RutasAprendizaje/Modulo Contrase\xF1as seguras/Modulo_CSeguras.unity"
     guid: 2a9f67f63dd4c854488e29c59bc74a40
   - enabled: 1
     path: Assets/Scenes/3.RutasAprendizaje/Modulo_RedesSociales.unity
