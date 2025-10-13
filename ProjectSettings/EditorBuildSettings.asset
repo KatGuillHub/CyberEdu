@@ -18,6 +18,12 @@ EditorBuildSettings:
     path: Assets/Scenes/3.RutasAprendizaje.unity
     guid: ef019250538c61644b8c0f6836ab1527
   - enabled: 1
+    path: Assets/Scenes/4.Progresos.unity
+    guid: 62d34e418aff6224196e2792266f7fc2
+  - enabled: 1
+    path: Assets/Scenes/5.Configuracion.unity
+    guid: 3421bd7aca2b1d54faa225a52487a67d
+  - enabled: 1
     path: Assets/Scenes/3.RutasAprendizaje/Modulo Phishing/Modulo_Phishing.unity
     guid: 99aff3227e4c1bd44844b826a53447d1
   - enabled: 1
@@ -47,10 +53,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3.RutasAprendizaje/Modulo Bienestar Digital/Modulo_BienestarDigital_Juego.unity
     guid: 83ed861598e2fe449b55854d7d809354
-  - enabled: 1
-    path: Assets/Scenes/4.Progresos.unity
-    guid: 62d34e418aff6224196e2792266f7fc2
-  - enabled: 1
-    path: Assets/Scenes/5.Configuracion.unity
-    guid: 3421bd7aca2b1d54faa225a52487a67d
   m_configObjects: {}

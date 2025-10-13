@@ -1,0 +1,40 @@
+{
+    "UserId": "c7fbe1aa-d24e-4885-8be9-bae9973432c0",
+    "UserName": "ank",
+    "Email": "ank@gmail.com",
+    "PasswordHash": "ff2ccb6ba423d356bd549ed4bfb76e96976a0dcde05a09996a1cdb9f83422ec4",
+    "UserType": "AdultoMayor",
+    "Age": 30,
+    "ProgressList": [
+        {
+            "ModuleID": "Modulo_Phishing",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_CSeguras",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_Privacidad",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_RedesSociales",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_IAResponsable",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_BienestarDigital",
+            "Progress": 0.0
+        }
+    ],
+    "Settings": {
+        "Language": "es",
+        "LargeFonts": false,
+        "Narration": false,
+        "OfflineMode": false
+    }
+}
