@@ -491,3 +491,179 @@
 [2025-10-12 20:23:33] Escena cargada: 3.RutasAprendizaje
 [2025-10-12 20:23:40] Aplicación cerrada. Usuario: Ca. Duración de sesión: 4,1 min.
 [2025-10-12 20:23:40] Aplicación cerrada. Usuario: Ca. Duración de sesión: 4,1 min.
+[2025-10-13 08:25:06] Sistema de seguimiento iniciado.
+[2025-10-13 08:25:06] Escena cargada: 0.LoginScreen
+[2025-10-13 08:25:06] Sesión iniciada por: Invitado
+[2025-10-13 08:25:09] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,1 min.
+[2025-10-13 08:25:09] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,1 min.
+[2025-10-13 08:25:26] Sistema de seguimiento iniciado.
+[2025-10-13 08:25:26] Escena cargada: 0.LoginScreen
+[2025-10-13 08:25:26] Sesión iniciada por: Invitado
+[2025-10-13 08:25:31] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:25:31] Login fallido: no encontrado ask
+[2025-10-13 08:25:31] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:25:32] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:25:32] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:25:32] Escena cargada: 1.RegisterScreen
+[2025-10-13 08:25:40] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:25:42] Click en botón 'YaTengoCuenta_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:25:42] Escena cargada: 0.LoginScreen
+[2025-10-13 08:25:43] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:25:43] Escena cargada: 1.RegisterScreen
+[2025-10-13 08:25:53] Click en botón 'Adulto_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:25:54] Click en botón 'YaTengoCuenta_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:25:54] Escena cargada: 0.LoginScreen
+[2025-10-13 08:25:55] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:25:55] Escena cargada: 1.RegisterScreen
+[2025-10-13 08:26:04] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:26:05] Click en botón 'Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:26:06] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:26:06] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-10-13 08:26:06] Datos de usuario guardados: ask
+[2025-10-13 08:26:06] Usuario registrado: ask (ask@gmail.com)
+[2025-10-13 08:26:06] Register: nuevo usuario ask (Joven, 12 años)
+[2025-10-13 08:26:06] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:26:09] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:26:10] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:26:10] Escena cargada: Modulo_Phishing_Descripcion
+[2025-10-13 08:26:13] Click en botón 'VolverModulos_Button' (escena: Modulo_Phishing_Descripcion, usuario: ask)
+[2025-10-13 08:26:13] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:14] Click en botón 'House_Button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:14] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:26:15] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:26:15] Escena cargada: Modulo_Phishing
+[2025-10-13 08:26:16] Click en botón 'House_Button' (escena: Modulo_Phishing, usuario: ask)
+[2025-10-13 08:26:16] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:26:17] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:26:17] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:19] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:19] Escena cargada: Modulo_BienestarDigital
+[2025-10-13 08:26:20] Click en botón 'Right' (escena: Modulo_BienestarDigital, usuario: ask)
+[2025-10-13 08:26:20] Escena cargada: Modulo_BienestarDigital_Descripcion
+[2025-10-13 08:26:21] Click en botón 'Right' (escena: Modulo_BienestarDigital_Descripcion, usuario: ask)
+[2025-10-13 08:26:21] Escena cargada: Modulo_BienestarDigital_Juego
+[2025-10-13 08:26:22] Click en botón 'VolverModulos_Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:26:22] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:22] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:22] Escena cargada: Modulo_IAResponsable
+[2025-10-13 08:26:24] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable, usuario: ask)
+[2025-10-13 08:26:24] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:24] Click en botón 'Iniciar_RedesSociales_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:24] Escena cargada: Modulo_RedesSociales
+[2025-10-13 08:26:25] Click en botón 'VolverModulos_Button' (escena: Modulo_RedesSociales, usuario: ask)
+[2025-10-13 08:26:25] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:26] Click en botón 'Iniciar_PLinea_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:26] Escena cargada: Modulo_Privacidad
+[2025-10-13 08:26:27] Click en botón 'VolverModulos_Button' (escena: Modulo_Privacidad, usuario: ask)
+[2025-10-13 08:26:27] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:28] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:28] Escena cargada: Modulo_CSeguras
+[2025-10-13 08:26:31] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: ask)
+[2025-10-13 08:26:31] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:26:31] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:26:31] Escena cargada: Modulo_Phishing
+[2025-10-13 08:26:32] Click en botón 'Avanzar' (escena: Modulo_Phishing, usuario: ask)
+[2025-10-13 08:26:32] Escena cargada: Modulo_Phishing_Descripcion
+[2025-10-13 08:26:33] Click en botón 'Avanzar' (escena: Modulo_Phishing_Descripcion, usuario: ask)
+[2025-10-13 08:26:33] Escena cargada: Modulo_Phishing_Juego
+[2025-10-13 08:26:35] Click en botón 'Retroceder' (escena: Modulo_Phishing_Juego, usuario: ask)
+[2025-10-13 08:26:35] Escena cargada: Modulo_Phishing_Descripcion
+[2025-10-13 08:26:36] Click en botón 'Avanzar' (escena: Modulo_Phishing_Descripcion, usuario: ask)
+[2025-10-13 08:26:36] Escena cargada: Modulo_Phishing_Juego
+[2025-10-13 08:26:40] Click en botón 'House_Button' (escena: Modulo_Phishing_Juego, usuario: ask)
+[2025-10-13 08:26:40] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:26:41] Usuario 'ask' cerró la aplicación manualmente desde la interfaz.
+[2025-10-13 08:26:41] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:26:41] Aplicación cerrada. Usuario: ask. Duración de sesión: 1,3 min.
+[2025-10-13 08:26:41] Aplicación cerrada. Usuario: ask. Duración de sesión: 1,3 min.
+[2025-10-13 08:26:45] Sistema de seguimiento iniciado.
+[2025-10-13 08:26:45] Escena cargada: 0.LoginScreen
+[2025-10-13 08:26:45] Sesión iniciada por: Invitado
+[2025-10-13 08:26:46] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
+[2025-10-13 08:26:46] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0,0 min.
+[2025-10-13 08:29:41] Sistema de seguimiento iniciado.
+[2025-10-13 08:29:41] Escena cargada: 0.LoginScreen
+[2025-10-13 08:29:41] Sesión iniciada por: Invitado
+[2025-10-13 08:29:46] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-13 08:29:46] Login exitoso: ask
+[2025-10-13 08:29:46] Login: ask
+[2025-10-13 08:29:46] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: ask)
+[2025-10-13 08:29:46] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:29:47] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:29:48] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:29:48] Escena cargada: 5.Configuracion
+[2025-10-13 08:29:49] Click en botón 'Button' (escena: 5.Configuracion, usuario: ask)
+[2025-10-13 08:29:51] Click en botón 'House_Button' (escena: 5.Configuracion, usuario: ask)
+[2025-10-13 08:29:51] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:29:51] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:29:51] Escena cargada: 4.Progresos
+[2025-10-13 08:29:52] Click en botón 'House_Button' (escena: 4.Progresos, usuario: ask)
+[2025-10-13 08:29:52] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:29:53] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:29:53] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:29:54] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:29:54] Escena cargada: Modulo_BienestarDigital
+[2025-10-13 08:29:55] Click en botón 'Right' (escena: Modulo_BienestarDigital, usuario: ask)
+[2025-10-13 08:29:55] Escena cargada: Modulo_BienestarDigital_Descripcion
+[2025-10-13 08:29:55] Click en botón 'Right' (escena: Modulo_BienestarDigital_Descripcion, usuario: ask)
+[2025-10-13 08:29:55] Escena cargada: Modulo_BienestarDigital_Juego
+[2025-10-13 08:29:56] Click en botón 'House_Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:29:56] Escena cargada: 2.MenuPrincipal
+[2025-10-13 08:29:57] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: ask)
+[2025-10-13 08:29:57] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:29:58] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:29:58] Escena cargada: Modulo_BienestarDigital
+[2025-10-13 08:29:58] Click en botón 'Right' (escena: Modulo_BienestarDigital, usuario: ask)
+[2025-10-13 08:29:58] Escena cargada: Modulo_BienestarDigital_Descripcion
+[2025-10-13 08:29:59] Click en botón 'Right' (escena: Modulo_BienestarDigital_Descripcion, usuario: ask)
+[2025-10-13 08:29:59] Escena cargada: Modulo_BienestarDigital_Juego
+[2025-10-13 08:29:59] Click en botón 'VolverModulos_Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:29:59] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:00] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:00] Escena cargada: Modulo_BienestarDigital
+[2025-10-13 08:30:01] Click en botón 'Right' (escena: Modulo_BienestarDigital, usuario: ask)
+[2025-10-13 08:30:01] Escena cargada: Modulo_BienestarDigital_Descripcion
+[2025-10-13 08:30:01] Click en botón 'Right' (escena: Modulo_BienestarDigital_Descripcion, usuario: ask)
+[2025-10-13 08:30:01] Escena cargada: Modulo_BienestarDigital_Juego
+[2025-10-13 08:30:03] Click en botón 'Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:30:08] Click en botón 'Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:30:12] Click en botón 'Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:30:16] Click en botón 'Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:30:26] Click en botón 'VolverModulos_Button' (escena: Modulo_BienestarDigital_Juego, usuario: ask)
+[2025-10-13 08:30:26] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:26] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:26] Escena cargada: Modulo_IAResponsable
+[2025-10-13 08:30:28] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable, usuario: ask)
+[2025-10-13 08:30:28] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:28] Click en botón 'Iniciar_RedesSociales_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:28] Escena cargada: Modulo_RedesSociales
+[2025-10-13 08:30:30] Click en botón 'VolverModulos_Button' (escena: Modulo_RedesSociales, usuario: ask)
+[2025-10-13 08:30:30] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:31] Click en botón 'Iniciar_PLinea_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:31] Escena cargada: Modulo_Privacidad
+[2025-10-13 08:30:32] Click en botón 'TeoricButton' (escena: Modulo_Privacidad, usuario: ask)
+[2025-10-13 08:30:32] InfoWindowManager: open_theory_window | User: ask
+[2025-10-13 08:30:33] Click en botón 'ExitInfo_Button' (escena: Modulo_Privacidad, usuario: ask)
+[2025-10-13 08:30:33] InfoWindowManager: close_theory_window | User: ask
+[2025-10-13 08:30:34] Click en botón 'VolverModulos_Button' (escena: Modulo_Privacidad, usuario: ask)
+[2025-10-13 08:30:34] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:37] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:37] Escena cargada: Modulo_CSeguras
+[2025-10-13 08:30:41] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: ask)
+[2025-10-13 08:30:41] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:43] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:43] Escena cargada: Modulo_Phishing
+[2025-10-13 08:30:45] Click en botón 'Avanzar' (escena: Modulo_Phishing, usuario: ask)
+[2025-10-13 08:30:45] Escena cargada: Modulo_Phishing_Descripcion
+[2025-10-13 08:30:46] Click en botón 'Avanzar' (escena: Modulo_Phishing_Descripcion, usuario: ask)
+[2025-10-13 08:30:46] Escena cargada: Modulo_Phishing_Juego
+[2025-10-13 08:30:47] Click en botón 'Retroceder' (escena: Modulo_Phishing_Juego, usuario: ask)
+[2025-10-13 08:30:47] Escena cargada: Modulo_Phishing_Descripcion
+[2025-10-13 08:30:48] Click en botón 'Avanzar' (escena: Modulo_Phishing_Descripcion, usuario: ask)
+[2025-10-13 08:30:48] Escena cargada: Modulo_Phishing_Juego
+[2025-10-13 08:30:48] Click en botón 'VolverModulos_Button' (escena: Modulo_Phishing_Juego, usuario: ask)
+[2025-10-13 08:30:48] Escena cargada: 3.RutasAprendizaje
+[2025-10-13 08:30:50] Usuario 'ask' cerró la aplicación manualmente desde la interfaz.
+[2025-10-13 08:30:50] Click en botón 'ExitButton' (escena: 3.RutasAprendizaje, usuario: ask)
+[2025-10-13 08:30:50] Aplicación cerrada. Usuario: ask. Duración de sesión: 1,1 min.
+[2025-10-13 08:30:50] Aplicación cerrada. Usuario: ask. Duración de sesión: 1,1 min.
