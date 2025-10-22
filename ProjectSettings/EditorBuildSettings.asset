@@ -45,6 +45,24 @@ EditorBuildSettings:
     path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt1.unity
     guid: c2e670f881fc5b74f82c4fb083050c88
   - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt1Quiz.unity
+    guid: b3dd0a559060d264890fdab0198adc26
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt2.unity
+    guid: 37a83bee8728e6d428c07997d65ad7c1
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt2Quiz.unity
+    guid: e6c4bc570cfae6c4a9aa324f6adb2ec8
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt3.unity
+    guid: 682d567283acf2e4f9c483668624e1d8
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt3Quiz.unity
+    guid: 3aec924c9fffce8409aa8e163cfab401
+  - enabled: 1
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt4.unity
+    guid: cb01b94333712df42a89c464ea9e23ac
+  - enabled: 1
     path: Assets/Scenes/3.RutasAprendizaje/Modulo Bienestar Digital/Modulo_BienestarDigital.unity
     guid: b5829ac78e9c95a47ace851eb760d74c
   - enabled: 1

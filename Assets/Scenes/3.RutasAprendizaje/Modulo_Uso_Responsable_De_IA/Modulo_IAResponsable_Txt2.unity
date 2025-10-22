@@ -1402,7 +1402,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1508191532}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: Sceneloader
         m_Mode: 3

@@ -667,3 +667,82 @@
 [2025-10-13 08:30:50] Click en botón 'ExitButton' (escena: 3.RutasAprendizaje, usuario: ask)
 [2025-10-13 08:30:50] Aplicación cerrada. Usuario: ask. Duración de sesión: 1,1 min.
 [2025-10-13 08:30:50] Aplicación cerrada. Usuario: ask. Duración de sesión: 1,1 min.
+[2025-10-22 13:54:20] Sistema de seguimiento iniciado.
+[2025-10-22 13:54:20] Escena cargada: 0.LoginScreen
+[2025-10-22 13:54:20] Sesión iniciada por: Invitado
+[2025-10-22 13:54:25] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:25] Login fallido: contraseña incorrecta para gui
+[2025-10-22 13:54:25] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:29] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:29] Login fallido: contraseña incorrecta para gui
+[2025-10-22 13:54:29] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:31] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:31] Login fallido: contraseña incorrecta para gui
+[2025-10-22 13:54:31] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:36] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-10-22 13:54:36] Login exitoso: gui
+[2025-10-22 13:54:36] Login: gui
+[2025-10-22 13:54:36] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: gui)
+[2025-10-22 13:54:36] Escena cargada: 2.MenuPrincipal
+[2025-10-22 13:54:38] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-22 13:54:38] Escena cargada: 5.Configuracion
+[2025-10-22 13:54:40] Click en botón 'House_Button' (escena: 5.Configuracion, usuario: gui)
+[2025-10-22 13:54:40] Escena cargada: 2.MenuPrincipal
+[2025-10-22 13:54:41] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-22 13:54:41] Escena cargada: 4.Progresos
+[2025-10-22 13:54:42] Click en botón 'House_Button' (escena: 4.Progresos, usuario: gui)
+[2025-10-22 13:54:42] Escena cargada: 2.MenuPrincipal
+[2025-10-22 13:54:42] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-22 13:54:43] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:54:43] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:54:43] Escena cargada: Modulo_Phishing
+[2025-10-22 13:54:44] Click en botón 'Avanzar' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-22 13:54:44] Escena cargada: Modulo_Phishing_Descripcion
+[2025-10-22 13:54:45] Click en botón 'Avanzar' (escena: Modulo_Phishing_Descripcion, usuario: gui)
+[2025-10-22 13:54:45] Escena cargada: Modulo_Phishing_Juego
+[2025-10-22 13:54:46] Click en botón 'VolverModulos_Button' (escena: Modulo_Phishing_Juego, usuario: gui)
+[2025-10-22 13:54:46] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:54:47] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:54:47] Escena cargada: Modulo_Phishing
+[2025-10-22 13:54:47] Click en botón 'House_Button' (escena: Modulo_Phishing, usuario: gui)
+[2025-10-22 13:54:47] Escena cargada: 2.MenuPrincipal
+[2025-10-22 13:54:48] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-22 13:54:48] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:54:49] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:54:49] Escena cargada: Modulo_CSeguras
+[2025-10-22 13:54:50] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: gui)
+[2025-10-22 13:54:50] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:54:51] Click en botón 'Iniciar_PLinea_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:54:51] Escena cargada: Modulo_Privacidad
+[2025-10-22 13:54:52] Click en botón 'VolverModulos_Button' (escena: Modulo_Privacidad, usuario: gui)
+[2025-10-22 13:54:52] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:54:53] Click en botón 'Iniciar_RedesSociales_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:54:53] Escena cargada: Modulo_RedesSociales
+[2025-10-22 13:54:53] Click en botón 'VolverModulos_Button' (escena: Modulo_RedesSociales, usuario: gui)
+[2025-10-22 13:54:53] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:54:54] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:54:54] Escena cargada: Modulo_IAResponsable_Txt1
+[2025-10-22 13:54:55] Click en botón 'Adelantar' (escena: Modulo_IAResponsable_Txt1, usuario: gui)
+[2025-10-22 13:54:56] Escena cargada: Modulo_IAResponsable_Txt1Quiz
+[2025-10-22 13:54:59] Escena cargada: Modulo_IAResponsable_Txt2
+[2025-10-22 13:55:00] Click en botón 'Adelantar' (escena: Modulo_IAResponsable_Txt2, usuario: gui)
+[2025-10-22 13:55:00] Escena cargada: Modulo_IAResponsable_Txt2Quiz
+[2025-10-22 13:55:02] Escena cargada: Modulo_IAResponsable_Txt3
+[2025-10-22 13:55:03] Click en botón 'Adelantar' (escena: Modulo_IAResponsable_Txt3, usuario: gui)
+[2025-10-22 13:55:03] Escena cargada: Modulo_IAResponsable_Txt3Quiz
+[2025-10-22 13:55:04] Escena cargada: Modulo_IAResponsable_Txt4
+[2025-10-22 13:55:05] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable_Txt4, usuario: gui)
+[2025-10-22 13:55:05] Escena cargada: 3.RutasAprendizaje
+[2025-10-22 13:55:07] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: gui)
+[2025-10-22 13:55:07] Escena cargada: Modulo_BienestarDigital
+[2025-10-22 13:55:08] Click en botón 'Adelantar' (escena: Modulo_BienestarDigital, usuario: gui)
+[2025-10-22 13:55:08] Escena cargada: Modulo_BienestarDigital_Descripcion
+[2025-10-22 13:55:08] Click en botón 'Adelantar' (escena: Modulo_BienestarDigital_Descripcion, usuario: gui)
+[2025-10-22 13:55:08] Escena cargada: Modulo_BienestarDigital_Juego
+[2025-10-22 13:55:10] Click en botón 'Button' (escena: Modulo_BienestarDigital_Juego, usuario: gui)
+[2025-10-22 13:55:14] Click en botón 'House_Button' (escena: Modulo_BienestarDigital_Juego, usuario: gui)
+[2025-10-22 13:55:14] Escena cargada: 2.MenuPrincipal
+[2025-10-22 13:55:15] Usuario 'gui' cerró la aplicación manualmente desde la interfaz.
+[2025-10-22 13:55:15] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: gui)
+[2025-10-22 13:55:15] Aplicación cerrada. Usuario: gui. Duración de sesión: 0,9 min.
+[2025-10-22 13:55:15] Aplicación cerrada. Usuario: gui. Duración de sesión: 0,9 min.
