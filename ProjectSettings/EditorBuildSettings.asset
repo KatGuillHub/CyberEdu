@@ -42,7 +42,7 @@ EditorBuildSettings:
     path: Assets/Scenes/3.RutasAprendizaje/Modulo_Privacidad.unity
     guid: 8249cdbb23709654098c08466b2e5ec0
   - enabled: 1
-    path: Assets/Scenes/3.RutasAprendizaje/Modulo_IAResponsable.unity
+    path: Assets/Scenes/3.RutasAprendizaje/Modulo_Uso_Responsable_De_IA/Modulo_IAResponsable_Txt1.unity
     guid: c2e670f881fc5b74f82c4fb083050c88
   - enabled: 1
     path: Assets/Scenes/3.RutasAprendizaje/Modulo Bienestar Digital/Modulo_BienestarDigital.unity
