@@ -3,6 +3,7 @@ using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
+using System.Text.RegularExpressions;
 
 public class Register : MonoBehaviour
 {
@@ -17,9 +18,7 @@ public class Register : MonoBehaviour
     public Button btnShowPass2;
     public Image imgShowPass1;
     public Image imgShowPass2;
-    [Tooltip("Sprite para ojo abierto (contraseña visible)")]
     public Sprite spriteEyeOpen;
-    [Tooltip("Sprite para ojo cerrado (contraseña oculta)")]
     public Sprite spriteEyeClosed;
     private bool showPass1 = false;
     private bool showPass2 = false;
@@ -50,38 +49,28 @@ public class Register : MonoBehaviour
 
     private void Start()
     {
-        // Aceptar cualquier caracter en los campos básicos
         if (inputName != null) inputName.contentType = TMP_InputField.ContentType.Standard;
         if (inputEmail != null) inputEmail.contentType = TMP_InputField.ContentType.Standard;
-
-        // Por defecto las contraseñas se muestran como ocultas (masked)
         if (inputPass1 != null) inputPass1.contentType = TMP_InputField.ContentType.Password;
         if (inputPass2 != null) inputPass2.contentType = TMP_InputField.ContentType.Password;
 
-        // Inicializar imágenes de los botones de mostrar/ocultar
-        showPass1 = false;
-        showPass2 = false;
-        if (imgShowPass1 != null && spriteEyeClosed != null) imgShowPass1.sprite = spriteEyeClosed;
-        if (imgShowPass2 != null && spriteEyeClosed != null) imgShowPass2.sprite = spriteEyeClosed;
+        showPass1 = showPass2 = false;
+        if (imgShowPass1 != null) imgShowPass1.sprite = spriteEyeClosed;
+        if (imgShowPass2 != null) imgShowPass2.sprite = spriteEyeClosed;
 
-        // Listeners para botones de visibilidad
-        if (btnShowPass1 != null) btnShowPass1.onClick.AddListener(TogglePass1);
-        if (btnShowPass2 != null) btnShowPass2.onClick.AddListener(TogglePass2);
+        if (btnShowPass1 != null) btnShowPass1.onClick.AddListener(() => TogglePassword(inputPass1, imgShowPass1, ref showPass1));
+        if (btnShowPass2 != null) btnShowPass2.onClick.AddListener(() => TogglePassword(inputPass2, imgShowPass2, ref showPass2));
 
-        // Asignar eventos de selección de rol
         if (btnJoven != null) btnJoven.onClick.AddListener(() => SelectRole("Joven"));
         if (btnAdulto != null) btnAdulto.onClick.AddListener(() => SelectRole("AdultoMayor"));
         if (btnRegister != null) btnRegister.onClick.AddListener(OnRegisterClicked);
-        if (btnHaveAccount != null) btnHaveAccount.onClick.AddListener(OnHaveAccountClicked);
+        if (btnHaveAccount != null) btnHaveAccount.onClick.AddListener(() => LoadScene(sceneIndex_Login));
 
-        // Estados iniciales de roles
         if (imgJoven != null) imgJoven.sprite = spriteUnselected;
         if (imgAdulto != null) imgAdulto.sprite = spriteUnselected;
 
-        // Mensaje oculto
         if (messageText != null) messageText.gameObject.SetActive(false);
 
-        // Inicializa dropdown vacío
         if (dropdownAge != null)
         {
             dropdownAge.options.Clear();
@@ -89,90 +78,38 @@ public class Register : MonoBehaviour
         }
     }
 
-    // ------------------ Mostrar / ocultar contraseñas ------------------
-
-    private void TogglePass1()
+    // --- Mostrar / Ocultar contraseñas ---
+    private void TogglePassword(TMP_InputField field, Image eyeImg, ref bool state)
     {
-        showPass1 = !showPass1;
-        UpdatePasswordFieldVisibility(inputPass1, imgShowPass1, showPass1);
-    }
-
-    private void TogglePass2()
-    {
-        showPass2 = !showPass2;
-        UpdatePasswordFieldVisibility(inputPass2, imgShowPass2, showPass2);
-    }
-
-    /// <summary>
-    /// Actualiza la visibilidad de un campo de contraseña y el sprite del botón asociado.
-    /// </summary>
-    private void UpdatePasswordFieldVisibility(TMP_InputField field, Image eyeImage, bool visible)
-    {
-        if (field == null) return;
-
-        // Guardar si el campo estaba enfocado para restaurarlo después
-        bool wasFocused = field.isFocused;
-        int caretPos = Mathf.Clamp(field.caretPosition, 0, field.text.Length);
-
-        // Cambiar tipo de contenido (password <-> standard)
-        field.contentType = visible ? TMP_InputField.ContentType.Standard : TMP_InputField.ContentType.Password;
-
-        // Forzar actualización visual
+        state = !state;
+        field.contentType = state ? TMP_InputField.ContentType.Standard : TMP_InputField.ContentType.Password;
         field.ForceLabelUpdate();
-
-        // Restaurar caret/foco si previamente estaba enfocado (no cambiamos foco innecesariamente)
-        if (wasFocused)
-        {
-            field.ActivateInputField();
-            // al reactivar, posicionamos el caret
-            field.caretPosition = Mathf.Clamp(caretPos, 0, field.text.Length);
-        }
-        else
-        {
-            // asegurar caret no queda fuera
-            field.caretPosition = Mathf.Clamp(caretPos, 0, field.text.Length);
-        }
-
-        // Actualizar sprite del botón (ojo abierto = visible, ojo cerrado = oculto)
-        if (eyeImage != null)
-        {
-            if (visible && spriteEyeOpen != null) eyeImage.sprite = spriteEyeOpen;
-            else if (!visible && spriteEyeClosed != null) eyeImage.sprite = spriteEyeClosed;
-        }
+        if (eyeImg != null)
+            eyeImg.sprite = state ? spriteEyeOpen : spriteEyeClosed;
     }
 
-    // ------------------ Roles y edades ------------------
-
+    // --- Roles y edades ---
     private void SelectRole(string role)
     {
         selectedRole = role;
-
-        if (imgJoven != null)
-            imgJoven.sprite = (role == "Joven") ? spriteSelected : spriteUnselected;
-        if (imgAdulto != null)
-            imgAdulto.sprite = (role == "AdultoMayor") ? spriteSelected : spriteUnselected;
-
+        if (imgJoven != null) imgJoven.sprite = (role == "Joven") ? spriteSelected : spriteUnselected;
+        if (imgAdulto != null) imgAdulto.sprite = (role == "AdultoMayor") ? spriteSelected : spriteUnselected;
         UpdateAgeDropdown();
     }
 
     private void UpdateAgeDropdown()
     {
         if (dropdownAge == null) return;
-
         dropdownAge.options.Clear();
-
         int start = (selectedRole == "AdultoMayor") ? 30 : 12;
         int end = (selectedRole == "AdultoMayor") ? 60 : 30;
-
         for (int i = start; i <= end; i++)
             dropdownAge.options.Add(new TMP_Dropdown.OptionData(i.ToString()));
-
         dropdownAge.value = 0;
         dropdownAge.captionText.text = dropdownAge.options[0].text;
     }
 
-    // ------------------ Registro ------------------
-
+    // --- Registro ---
     public void OnRegisterClicked()
     {
         string name = inputName.text.Trim();
@@ -198,10 +135,21 @@ public class Register : MonoBehaviour
             return;
         }
 
-        if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(email) ||
-            string.IsNullOrEmpty(p1) || string.IsNullOrEmpty(p2))
+        if (!ValidateUserName(name))
         {
-            ShowMessage("Complete todos los campos.");
+            ShowMessage("Nombre inválido. Use entre 3-20 caracteres (letras, números, guiones o guion bajo).");
+            return;
+        }
+
+        if (!ValidateEmail(email))
+        {
+            ShowMessage("Correo electrónico inválido.");
+            return;
+        }
+
+        if (!ValidatePassword(p1, out string passError))
+        {
+            ShowMessage(passError);
             return;
         }
 
@@ -219,12 +167,64 @@ public class Register : MonoBehaviour
             return;
         }
 
+        if (!IsPasswordSecure(p1, out string pwdError))
+        {
+            ShowMessage(pwdError);
+            return;
+        }
+
         EventLogger.Log($"Register: nuevo usuario {name} ({selectedRole}, {age} años)");
         LoadScene(sceneIndex_Menu);
     }
 
-    public void OnHaveAccountClicked() => LoadScene(sceneIndex_Login);
+    // --- Validaciones de ciberseguridad ---
+    private bool ValidateUserName(string name)
+    {
+        return Regex.IsMatch(name, @"^[a-zA-Z0-9_-]{3,20}$");
+    }
 
+    private bool ValidateEmail(string email)
+    {
+        return Regex.IsMatch(email, @"^[^@\s]+@[^@\s]+\.[^@\s]+$");
+    }
+
+    private bool ValidatePassword(string password, out string error)
+    {
+        error = null;
+        if (password.Length < 8 || password.Length > 32)
+        {
+            error = "La contraseña debe tener entre 8 y 32 caracteres.";
+            return false;
+        }
+        if (!Regex.IsMatch(password, @"[A-Z]"))
+        {
+            error = "La contraseña debe tener al menos una letra mayúscula.";
+            return false;
+        }
+        if (!Regex.IsMatch(password, @"[a-z]"))
+        {
+            error = "La contraseña debe tener al menos una letra minúscula.";
+            return false;
+        }
+        if (!Regex.IsMatch(password, @"[0-9]"))
+        {
+            error = "La contraseña debe incluir al menos un número.";
+            return false;
+        }
+        if (!Regex.IsMatch(password, @"[!@#$%^&*()_+\-=\[\]{};':"",.<>/?]"))
+        {
+            error = "Debe incluir al menos un carácter especial.";
+            return false;
+        }
+        if (password.Contains(" "))
+        {
+            error = "La contraseña no debe contener espacios.";
+            return false;
+        }
+        return true;
+    }
+
+    // --- Utilidades ---
     private void LoadScene(int index)
     {
         var loader = FindObjectOfType<SceneLoader>();
@@ -232,12 +232,9 @@ public class Register : MonoBehaviour
         else SceneManager.LoadScene(index);
     }
 
-    // ------------------ UI Feedback ------------------
-
     private void ShowMessage(string msg)
     {
         if (messageText == null) return;
-
         StopAllCoroutines();
         messageText.text = msg;
         messageText.gameObject.SetActive(true);
@@ -249,4 +246,54 @@ public class Register : MonoBehaviour
         yield return new WaitForSeconds(messageDuration);
         messageText.gameObject.SetActive(false);
     }
+
+    private bool IsPasswordSecure(string password, out string error)
+    {
+        error = null;
+
+        if (string.IsNullOrEmpty(password))
+        {
+            error = "La contraseña no puede estar vacía.";
+            return false;
+        }
+
+        if (password.Length < 8 || password.Length > 16)
+        {
+            error = "La contraseña debe tener entre 8 y 16 caracteres.";
+            return false;
+        }
+
+        if (!System.Text.RegularExpressions.Regex.IsMatch(password, @"[A-Z]"))
+        {
+            error = "Debe contener al menos una letra mayúscula.";
+            return false;
+        }
+
+        if (!System.Text.RegularExpressions.Regex.IsMatch(password, @"[a-z]"))
+        {
+            error = "Debe contener al menos una letra minúscula.";
+            return false;
+        }
+
+        if (!System.Text.RegularExpressions.Regex.IsMatch(password, @"[0-9]"))
+        {
+            error = "Debe contener al menos un número.";
+            return false;
+        }
+
+        if (!System.Text.RegularExpressions.Regex.IsMatch(password, @"[@#$%&*!?\-_.]"))
+        {
+            error = "Debe contener al menos un carácter especial permitido: @ # $ % & * ! ? - _ .";
+            return false;
+        }
+
+        if (password.Contains(" "))
+        {
+            error = "No se permiten espacios en blanco en la contraseña.";
+            return false;
+        }
+
+        return true;
+    }
+
 }
