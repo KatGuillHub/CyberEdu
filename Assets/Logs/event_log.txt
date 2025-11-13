@@ -2945,3 +2945,165 @@
 [2025-11-05 21:08:30] Escena cargada: 2.MenuPrincipal
 [2025-11-05 21:08:43] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 1.5 min.
 [2025-11-05 21:08:43] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 1.5 min.
+[2025-11-13 11:47:09] Sistema de seguimiento iniciado.
+[2025-11-13 11:47:09] Escena cargada: 0.LoginScreen
+[2025-11-13 11:47:09] Sesión iniciada por: Invitado
+[2025-11-13 11:47:15] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-13 11:47:15] Click en botón 'Recordarme_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-13 11:47:16] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-13 11:47:16] Login exitoso: UsuarioPruebaC3
+[2025-11-13 11:47:16] Login: UsuarioPruebaC3
+[2025-11-13 11:47:16] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:16] Escena cargada: 2.MenuPrincipal
+[2025-11-13 11:47:16] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:16] Escena cargada: 3.RutasAprendizaje
+[2025-11-13 11:47:20] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:20] Escena cargada: Modulo_CSeguras
+[2025-11-13 11:47:21] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:21] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 27.27273%
+[2025-11-13 11:47:24] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:24] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:24] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 36.36364%
+[2025-11-13 11:47:38] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:38] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 36.36364%
+[2025-11-13 11:47:42] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:42] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:42] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 45.45454%
+[2025-11-13 11:47:43] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:43] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:43] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 54.54546%
+[2025-11-13 11:47:47] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:47] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 54.54546%
+[2025-11-13 11:47:48] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:48] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:48] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 63.63636%
+[2025-11-13 11:47:50] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:47:50] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:47:50] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 72.72727%
+[2025-11-13 11:48:09] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:09] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 72.72727%
+[2025-11-13 11:48:12] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:48:12] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:12] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 81.81818%
+[2025-11-13 11:48:17] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:48:17] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:17] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 90.90909%
+[2025-11-13 11:48:19] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:19] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 90.90909%
+[2025-11-13 11:48:19] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:19] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 90.90909%
+[2025-11-13 11:48:21] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:48:21] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:21] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 99%
+[2025-11-13 11:48:25] Click en botón 'Button' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:48:25] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 11:48:25] Progreso actualizado: UsuarioPruebaC3 - Modulo_CSeguras -> 100%
+[2025-11-13 11:48:36] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:48:37] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: UsuarioPruebaC3)
+[2025-11-13 11:48:37] Escena cargada: 3.RutasAprendizaje
+[2025-11-13 11:48:49] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 1.7 min.
+[2025-11-13 11:48:49] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 1.7 min.
+[2025-11-13 13:06:56] Sesión recordada cargada: UsuarioPruebaC3
+[2025-11-13 13:06:56] Sistema de seguimiento iniciado.
+[2025-11-13 13:06:56] Escena cargada: 0.LoginScreen
+[2025-11-13 13:06:56] Auto-redirect: remembered session detected.
+[2025-11-13 13:06:56] Sesión iniciada por: UsuarioPruebaC3
+[2025-11-13 13:06:57] Escena cargada: 2.MenuPrincipal
+[2025-11-13 13:06:58] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:00] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:02] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:03] Click en botón 'Soporte_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:04] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:06] Click en botón 'Privacidad_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:08] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:10] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:20] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:21] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:21] Escena cargada: 3.RutasAprendizaje
+[2025-11-13 13:07:25] Click en botón 'House_Button' (escena: 3.RutasAprendizaje, usuario: UsuarioPruebaC3)
+[2025-11-13 13:07:25] Escena cargada: 2.MenuPrincipal
+[2025-11-13 13:07:26] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 0.5 min.
+[2025-11-13 13:07:26] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 0.5 min.
+[2025-11-13 14:40:46] Sesión recordada cargada: UsuarioPruebaC3
+[2025-11-13 14:40:46] Sistema de seguimiento iniciado.
+[2025-11-13 14:40:46] Escena cargada: 0.LoginScreen
+[2025-11-13 14:40:46] Auto-redirect: remembered session detected.
+[2025-11-13 14:40:46] Sesión iniciada por: UsuarioPruebaC3
+[2025-11-13 14:40:46] Escena cargada: 2.MenuPrincipal
+[2025-11-13 14:40:48] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:40:51] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:41:01] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:41:02] Click en botón 'Soporte_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:41:04] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:41:05] Click en botón 'Privacidad_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:41:06] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:41:07] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 0.4 min.
+[2025-11-13 14:41:07] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 0.4 min.
+[2025-11-13 14:42:18] Sesión recordada cargada: UsuarioPruebaC3
+[2025-11-13 14:42:18] Sistema de seguimiento iniciado.
+[2025-11-13 14:42:18] Escena cargada: 0.LoginScreen
+[2025-11-13 14:42:18] Auto-redirect: remembered session detected.
+[2025-11-13 14:42:18] Sesión iniciada por: UsuarioPruebaC3
+[2025-11-13 14:42:18] Escena cargada: 2.MenuPrincipal
+[2025-11-13 14:42:23] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:42:23] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:42:29] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:42:30] Click en botón 'Soporte_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:42:32] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:42:33] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 0.3 min.
+[2025-11-13 14:42:33] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 0.3 min.
+[2025-11-13 14:45:31] Sesión recordada cargada: UsuarioPruebaC3
+[2025-11-13 14:45:31] Sistema de seguimiento iniciado.
+[2025-11-13 14:45:31] Escena cargada: 0.LoginScreen
+[2025-11-13 14:45:31] Auto-redirect: remembered session detected.
+[2025-11-13 14:45:31] Sesión iniciada por: UsuarioPruebaC3
+[2025-11-13 14:45:32] Escena cargada: 2.MenuPrincipal
+[2025-11-13 14:45:39] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:45:39] Click en botón 'Ayuda_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:45:48] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:45:49] Click en botón 'Soporte_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:45:49] Click en botón 'Soporte_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:04] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:05] Click en botón 'Privacidad_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:06] Click en botón 'Privacidad_txt' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:17] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:22] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:22] Escena cargada: 3.RutasAprendizaje
+[2025-11-13 14:46:24] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:25] Escena cargada: Modulo_IAResponsable
+[2025-11-13 14:46:30] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:30] Escena cargada: 3.RutasAprendizaje
+[2025-11-13 14:46:32] Click en botón 'Iniciar_PLinea_button' (escena: 3.RutasAprendizaje, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:32] Escena cargada: Modulo_Privacidad
+[2025-11-13 14:46:32] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 14:46:32] Progreso actualizado: UsuarioPruebaC3 - Modulo_Privacidad -> 6.666667%
+[2025-11-13 14:46:34] Click en botón 'Adelantar' (escena: Modulo_Privacidad, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:34] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 14:46:34] Progreso actualizado: UsuarioPruebaC3 - Modulo_Privacidad -> 13.33333%
+[2025-11-13 14:46:45] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 14:46:45] Progreso actualizado: UsuarioPruebaC3 - Modulo_Privacidad -> 13.33333%
+[2025-11-13 14:46:45] Click en botón 'Adelantar' (escena: Modulo_Privacidad, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:45] Datos de usuario guardados: UsuarioPruebaC3
+[2025-11-13 14:46:45] Progreso actualizado: UsuarioPruebaC3 - Modulo_Privacidad -> 20%
+[2025-11-13 14:46:50] Click en botón 'VolverModulos_Button' (escena: Modulo_Privacidad, usuario: UsuarioPruebaC3)
+[2025-11-13 14:46:50] Escena cargada: 3.RutasAprendizaje
+[2025-11-13 14:46:52] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 1.4 min.
+[2025-11-13 14:46:52] Aplicación cerrada. Usuario: UsuarioPruebaC3. Duración de sesión: 1.4 min.
+[2025-11-13 14:48:46] Sesión recordada cargada: UsuarioPruebaC3
+[2025-11-13 14:48:46] Sistema de seguimiento iniciado.
+[2025-11-13 14:48:46] Escena cargada: 0.LoginScreen
+[2025-11-13 14:48:46] Auto-redirect: remembered session detected.
+[2025-11-13 14:48:46] Sesión iniciada por: UsuarioPruebaC3
+[2025-11-13 14:48:46] Escena cargada: 2.MenuPrincipal
+[2025-11-13 14:48:49] Usuario 'UsuarioPruebaC3' cerró sesión manualmente desde MenuPrincipal.
+[2025-11-13 14:48:49] Logout: UsuarioPruebaC3
+[2025-11-13 14:48:49] Redirigiendo a la escena de Login (0.LoginScreen).
+[2025-11-13 14:48:49] Click en botón 'SignOutButton' (escena: 2.MenuPrincipal, usuario: Invitado)
+[2025-11-13 14:48:49] Escena cargada: 0.LoginScreen
+[2025-11-13 14:48:51] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.1 min.
+[2025-11-13 14:48:51] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.1 min.
+[2025-11-13 14:48:56] Sistema de seguimiento iniciado.
+[2025-11-13 14:48:56] Escena cargada: 0.LoginScreen
+[2025-11-13 14:48:56] Sesión iniciada por: Invitado
+[2025-11-13 14:48:58] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
+[2025-11-13 14:48:58] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
