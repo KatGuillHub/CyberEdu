@@ -1,0 +1,40 @@
+{
+    "UserId": "a44d72d7-f2de-41b6-89f6-139a50723511",
+    "UserName": "Superman",
+    "Email": "p1@voy.com",
+    "PasswordHash": "fffbc676de669d5ecb6d24b4ee756babcf2f7364336c9784c944f2ee8343ba78",
+    "UserType": "AdultoMayor",
+    "Age": 48,
+    "ProgressList": [
+        {
+            "ModuleID": "Modulo_Phishing",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_CSeguras",
+            "Progress": 99.0
+        },
+        {
+            "ModuleID": "Modulo_Privacidad",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_RedesSociales",
+            "Progress": 0.0
+        },
+        {
+            "ModuleID": "Modulo_IAResponsable",
+            "Progress": 57.14285659790039
+        },
+        {
+            "ModuleID": "Modulo_BienestarDigital",
+            "Progress": 99.0
+        }
+    ],
+    "Settings": {
+        "Language": "es",
+        "LargeFonts": false,
+        "Narration": false,
+        "OfflineMode": false
+    }
+}
