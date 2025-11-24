@@ -3107,3 +3107,182 @@
 [2025-11-13 14:48:56] Sesión iniciada por: Invitado
 [2025-11-13 14:48:58] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
 [2025-11-13 14:48:58] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 0.0 min.
+[2025-11-22 18:06:44] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-22 18:07:06] Sistema de seguimiento iniciado.
+[2025-11-22 18:07:06] Escena cargada: 0.LoginScreen
+[2025-11-22 18:07:06] Sesión iniciada por: Invitado
+[2025-11-22 18:07:11] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-22 18:07:11] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-22 18:07:24] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-22 18:07:24] Login fallido: no encontrado P1
+[2025-11-22 18:07:24] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-22 18:07:32] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-22 18:07:32] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-22 18:07:32] Escena cargada: 1.RegisterScreen
+[2025-11-22 18:08:09] Click en botón 'Adulto_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:08:28] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:08:33] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:08:53] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:09:09] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:09:19] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:09:31] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-22 18:09:31] Datos de usuario guardados: Superman
+[2025-11-22 18:09:31] Usuario registrado: Superman (p1@voy.com)
+[2025-11-22 18:09:31] Register: nuevo usuario Superman (AdultoMayor, 48 años)
+[2025-11-22 18:09:31] Escena cargada: 2.MenuPrincipal
+[2025-11-22 18:09:41] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: Superman)
+[2025-11-22 18:09:41] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:09:49] Click en botón 'Iniciar_CSeguras_button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:09:50] Escena cargada: Modulo_CSeguras
+[2025-11-22 18:09:50] Datos de usuario guardados: Superman
+[2025-11-22 18:09:50] Progreso actualizado: Superman - Modulo_CSeguras -> 9.090909%
+[2025-11-22 18:10:00] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:00] Datos de usuario guardados: Superman
+[2025-11-22 18:10:00] Progreso actualizado: Superman - Modulo_CSeguras -> 18.18182%
+[2025-11-22 18:10:04] Datos de usuario guardados: Superman
+[2025-11-22 18:10:04] Progreso actualizado: Superman - Modulo_CSeguras -> 18.18182%
+[2025-11-22 18:10:06] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:06] Datos de usuario guardados: Superman
+[2025-11-22 18:10:06] Progreso actualizado: Superman - Modulo_CSeguras -> 27.27273%
+[2025-11-22 18:10:08] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:08] Datos de usuario guardados: Superman
+[2025-11-22 18:10:08] Progreso actualizado: Superman - Modulo_CSeguras -> 36.36364%
+[2025-11-22 18:10:21] Datos de usuario guardados: Superman
+[2025-11-22 18:10:21] Progreso actualizado: Superman - Modulo_CSeguras -> 36.36364%
+[2025-11-22 18:10:23] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:23] Datos de usuario guardados: Superman
+[2025-11-22 18:10:23] Progreso actualizado: Superman - Modulo_CSeguras -> 45.45454%
+[2025-11-22 18:10:24] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:24] Datos de usuario guardados: Superman
+[2025-11-22 18:10:24] Progreso actualizado: Superman - Modulo_CSeguras -> 54.54546%
+[2025-11-22 18:10:32] Datos de usuario guardados: Superman
+[2025-11-22 18:10:32] Progreso actualizado: Superman - Modulo_CSeguras -> 54.54546%
+[2025-11-22 18:10:33] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:33] Datos de usuario guardados: Superman
+[2025-11-22 18:10:33] Progreso actualizado: Superman - Modulo_CSeguras -> 63.63636%
+[2025-11-22 18:10:34] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:34] Datos de usuario guardados: Superman
+[2025-11-22 18:10:34] Progreso actualizado: Superman - Modulo_CSeguras -> 72.72727%
+[2025-11-22 18:10:43] Datos de usuario guardados: Superman
+[2025-11-22 18:10:43] Progreso actualizado: Superman - Modulo_CSeguras -> 72.72727%
+[2025-11-22 18:10:45] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:45] Datos de usuario guardados: Superman
+[2025-11-22 18:10:45] Progreso actualizado: Superman - Modulo_CSeguras -> 81.81818%
+[2025-11-22 18:10:46] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:46] Datos de usuario guardados: Superman
+[2025-11-22 18:10:46] Progreso actualizado: Superman - Modulo_CSeguras -> 90.90909%
+[2025-11-22 18:10:51] Datos de usuario guardados: Superman
+[2025-11-22 18:10:51] Progreso actualizado: Superman - Modulo_CSeguras -> 90.90909%
+[2025-11-22 18:10:51] Datos de usuario guardados: Superman
+[2025-11-22 18:10:51] Progreso actualizado: Superman - Modulo_CSeguras -> 90.90909%
+[2025-11-22 18:10:59] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:10:59] Datos de usuario guardados: Superman
+[2025-11-22 18:10:59] Progreso actualizado: Superman - Modulo_CSeguras -> 99%
+[2025-11-22 18:11:00] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:01] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:02] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:02] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:02] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:07] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:07] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:11:12] Click en botón 'House_Button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:11:12] Escena cargada: 2.MenuPrincipal
+[2025-11-22 18:11:14] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: Superman)
+[2025-11-22 18:11:14] Escena cargada: 4.Progresos
+[2025-11-22 18:11:21] Click en botón 'House_Button' (escena: 4.Progresos, usuario: Superman)
+[2025-11-22 18:11:21] Escena cargada: 2.MenuPrincipal
+[2025-11-22 18:11:25] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: Superman)
+[2025-11-22 18:11:25] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:11:27] Click en botón 'Iniciar_Phishing_button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:11:27] Escena cargada: Modulo_Phishing
+[2025-11-22 18:11:33] Click en botón 'Avanzar' (escena: Modulo_Phishing, usuario: Superman)
+[2025-11-22 18:11:33] Escena cargada: Modulo_CSeguras
+[2025-11-22 18:11:33] Datos de usuario guardados: Superman
+[2025-11-22 18:11:33] Progreso actualizado: Superman - Modulo_CSeguras -> 99%
+[2025-11-22 18:11:39] Click en botón 'Adelantar' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:41] Click en botón 'VolverModulos_Button' (escena: Modulo_CSeguras, usuario: Superman)
+[2025-11-22 18:11:41] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:12:05] Click en botón 'Iniciar_RedesSociales_button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:12:05] Escena cargada: Modulo_RedesSociales
+[2025-11-22 18:12:08] Click en botón 'VolverModulos_Button' (escena: Modulo_RedesSociales, usuario: Superman)
+[2025-11-22 18:12:08] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:12:09] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:12:09] Escena cargada: Modulo_IAResponsable
+[2025-11-22 18:12:09] Datos de usuario guardados: Superman
+[2025-11-22 18:12:09] Progreso actualizado: Superman - Modulo_IAResponsable -> 14.28571%
+[2025-11-22 18:12:16] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable, usuario: Superman)
+[2025-11-22 18:12:16] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:12:18] Click en botón 'Iniciar_BienestarDigital_button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:12:18] Escena cargada: Modulo_BienestarDigital
+[2025-11-22 18:12:18] Datos de usuario guardados: Superman
+[2025-11-22 18:12:18] Progreso actualizado: Superman - Modulo_BienestarDigital -> 33.33333%
+[2025-11-22 18:12:23] Click en botón 'Adelantar' (escena: Modulo_BienestarDigital, usuario: Superman)
+[2025-11-22 18:12:23] Datos de usuario guardados: Superman
+[2025-11-22 18:12:23] Progreso actualizado: Superman - Modulo_BienestarDigital -> 66.66666%
+[2025-11-22 18:12:25] Click en botón 'Adelantar' (escena: Modulo_BienestarDigital, usuario: Superman)
+[2025-11-22 18:12:25] Datos de usuario guardados: Superman
+[2025-11-22 18:12:25] Progreso actualizado: Superman - Modulo_BienestarDigital -> 99%
+[2025-11-22 18:12:34] Click en botón 'Button' (escena: Modulo_BienestarDigital, usuario: Superman)
+[2025-11-22 18:12:42] Click en botón 'Button' (escena: Modulo_BienestarDigital, usuario: Superman)
+[2025-11-22 18:12:51] Click en botón 'Button' (escena: Modulo_BienestarDigital, usuario: Superman)
+[2025-11-22 18:12:54] Click en botón 'VolverModulos_Button' (escena: Modulo_BienestarDigital, usuario: Superman)
+[2025-11-22 18:12:54] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:12:58] Click en botón 'Iniciar_IAResponsable_button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:12:58] Escena cargada: Modulo_IAResponsable
+[2025-11-22 18:12:58] Datos de usuario guardados: Superman
+[2025-11-22 18:12:58] Progreso actualizado: Superman - Modulo_IAResponsable -> 14.28571%
+[2025-11-22 18:13:00] Click en botón 'Adelantar' (escena: Modulo_IAResponsable, usuario: Superman)
+[2025-11-22 18:13:00] Datos de usuario guardados: Superman
+[2025-11-22 18:13:00] Progreso actualizado: Superman - Modulo_IAResponsable -> 28.57143%
+[2025-11-22 18:13:05] Datos de usuario guardados: Superman
+[2025-11-22 18:13:05] Progreso actualizado: Superman - Modulo_IAResponsable -> 28.57143%
+[2025-11-22 18:13:06] Click en botón 'Adelantar' (escena: Modulo_IAResponsable, usuario: Superman)
+[2025-11-22 18:13:06] Datos de usuario guardados: Superman
+[2025-11-22 18:13:06] Progreso actualizado: Superman - Modulo_IAResponsable -> 42.85714%
+[2025-11-22 18:13:07] Click en botón 'Adelantar' (escena: Modulo_IAResponsable, usuario: Superman)
+[2025-11-22 18:13:07] Datos de usuario guardados: Superman
+[2025-11-22 18:13:07] Progreso actualizado: Superman - Modulo_IAResponsable -> 57.14286%
+[2025-11-22 18:13:13] Click en botón 'VolverModulos_Button' (escena: Modulo_IAResponsable, usuario: Superman)
+[2025-11-22 18:13:13] Escena cargada: 3.RutasAprendizaje
+[2025-11-22 18:13:15] Click en botón 'House_Button' (escena: 3.RutasAprendizaje, usuario: Superman)
+[2025-11-22 18:13:15] Escena cargada: 2.MenuPrincipal
+[2025-11-22 18:13:16] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: Superman)
+[2025-11-22 18:13:16] Escena cargada: 4.Progresos
+[2025-11-22 18:13:36] Click en botón 'House_Button' (escena: 4.Progresos, usuario: Superman)
+[2025-11-22 18:13:36] Escena cargada: 2.MenuPrincipal
+[2025-11-22 18:13:38] Usuario 'Superman' cerró la aplicación manualmente desde la interfaz.
+[2025-11-22 18:13:38] Click en botón 'ExitButton' (escena: 2.MenuPrincipal, usuario: Superman)
+[2025-11-22 18:13:38] Aplicación cerrada. Usuario: Superman. Duración de sesión: 6.5 min.
+[2025-11-22 18:13:38] Aplicación cerrada. Usuario: Superman. Duración de sesión: 6.5 min.
+[2025-11-22 21:00:13] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 09:03:46] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 09:16:55] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 13:35:02] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 14:56:02] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 15:04:13] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 15:32:15] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 16:26:55] Aplicación cerrada manualmente (sin sesión activa).
+[2025-11-23 18:49:02] Sistema de seguimiento iniciado.
+[2025-11-23 18:49:02] Escena cargada: 0.LoginScreen
+[2025-11-23 18:49:02] Sesión iniciada por: Invitado
+[2025-11-23 18:49:28] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-23 18:49:28] Login fallido: no encontrado P1
+[2025-11-23 18:49:28] Click en botón 'IniciarSesion_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-23 18:49:30] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-23 18:49:30] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-23 18:52:37] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 3.6 min.
+[2025-11-23 18:52:37] Aplicación cerrada. Usuario: Invitado. Duración de sesión: 3.6 min.
+[2025-11-23 18:52:53] Sistema de seguimiento iniciado.
+[2025-11-23 18:52:53] Escena cargada: 0.LoginScreen
+[2025-11-23 18:52:53] Sesión iniciada por: Invitado
+[2025-11-23 18:52:58] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-23 18:52:58] Click en botón 'Registrarse_Button' (escena: 0.LoginScreen, usuario: Invitado)
+[2025-11-23 18:56:04] Escena cargada: 1.RegisterScreen
+[2025-11-23 18:57:39] Click en botón 'Joven_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-23 18:57:49] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-23 18:58:01] Click en botón 'Registrarse_Button' (escena: 1.RegisterScreen, usuario: Invitado)
+[2025-11-23 18:58:01] Datos de usuario guardados: Superman1
+[2025-11-23 18:58:01] Usuario registrado: Superman1 (superman@dfe.com)
+[2025-11-23 18:58:01] Register: nuevo usuario Superman1 (Joven, 20 años)
+[2025-11-23 19:03:38] Escena cargada: 2.MenuPrincipal
+[2025-11-23 19:12:35] Click en botón 'RawImage' (escena: 2.MenuPrincipal, usuario: Superman1)
